@@ -22,13 +22,9 @@
   <img src="https://img.shields.io/github/license/MD-Developer-yt/Mohammed_Login_bot?style=for-the-badge">
 </p>
 
----
-
 # Save Restricted Bot
 
 A simple Telegram bot to download restricted content and manage users.
-
----
 
 <details open>
 <summary><b>📦 Core Features</b></summary>
@@ -71,8 +67,6 @@ A simple Telegram bot to download restricted content and manage users.
 
 ---
 
----
-
 ## Environment Variables
 
 <details>
@@ -91,8 +85,6 @@ A simple Telegram bot to download restricted content and manage users.
 | `KEEP_ALIVE`    | Use an uptime service like UptimeRobot     |
 
 </details>
-
----
 
 ---
 
@@ -139,8 +131,6 @@ python bot.py
 
 </details>
 
----
-
 
 ## 🐳 Docker
 
@@ -148,8 +138,6 @@ python bot.py
 docker build -t save-restricted-bot .
 docker run -d --env-file .env save-restricted-bot
 ```
-
----
 
 # 📝 Commands
 
@@ -186,8 +174,6 @@ docker run -d --env-file .env save-restricted-bot
 
 </details>
 
----
-
 ## 👑 Admin Commands
 
 <details>
@@ -203,18 +189,14 @@ docker run -d --env-file .env save-restricted-bot
 
 </details>
 
----
-
 ## Support
 
 - 👨‍💻 Developer: [Mohammed](https://t.me/Mr_Mohammed_29)  
-- 💬 Support Group: [AU Bot Discusssion](https://t.me/AU_Bot_Discussion)
-- 📢 Updates Channel: [Updates](https://t.me/Anime_UpdatesAU)
-- 🔗 GitHub: [MD Developer Yt](https://github.com/MD-Developer-yt/)
+- 💬 Support Group: [AU Bot Discusssion](https://t.me/Coders_Grp)
+- 📢 Updates Channel: [Updates](https://t.me/Aero_Unity)
+- 🔗 GitHub: [Mohammed Dev-yt](https://github.com/MohammedDev-yt/)
 
----
-
-[!Note]
+> [!NOTE]
 
 This bot is for educational purposes only. Use responsibly.
 
