@@ -192,13 +192,12 @@ docker run -d --env-file .env save-restricted-bot
 ## Support
 
 - 👨‍💻 Developer: [Mohammed](https://t.me/Mr_Mohammed_29)  
-- 💬 Support Group: [AU Bot Discusssion](https://t.me/Coders_Grp)
+- 💬 Support Group: [Coders Group](https://t.me/Coders_Grp)
 - 📢 Updates Channel: [Updates](https://t.me/Aero_Unity)
 - 🔗 GitHub: [Mohammed Dev-yt](https://github.com/MohammedDev-yt/)
 
 > [!NOTE]
-
-This bot is for educational purposes only. Use responsibly.
+> **This bot is for educational purposes only. Use responsibly.**
 
 # 🤝 Contributors
 
@@ -207,7 +206,7 @@ This bot is for educational purposes only. Use responsibly.
     <img src="https://img.shields.io/badge/Mohammed-Telegram-blue?style=for-the-badge&logo=telegram">
   </a>
   &nbsp;
-  <a href="https://github.com/MD-Developer-yt/">
+  <a href="https://github.com/MohammedDev-yt/">
     <img src="https://img.shields.io/badge/MD-Developer-yt-GitHub-black?style=for-the-badge&logo=github">
   </a>
 </p>
@@ -217,11 +216,11 @@ This bot is for educational purposes only. Use responsibly.
 # 📞 Support
 
 <p align="center">
-  <a href="https://t.me/AU_Bot_Discussion">
-    <img src="https://img.shields.io/badge/au-discussion %20Channel-blue?style=for-the-badge&logo=telegram">
+  <a href="https://t.me/Coders_Grp">
+    <img src="https://img.shields.io/badge/Coders_grp%20Channel-blue?style=for-the-badge&logo=telegram">
   </a>
   <br><br>
-  <a href="https://t.me/Anime_UpdatesAU">
+  <a href="https://t.me/Aero_Unity">
     <img src="https://img.shields.io/badge/Updates-Channel-blue?style=for-the-badge&logo=telegram">
   </a>
 </p>
