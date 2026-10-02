@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:6A00FF,100:00C8FF&height=180&section=header&text=SAVE%20RESTRICTED%20CONTENT%20BOT&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developed%20By%20Mohammed&descAlignY=60&descSize=16" width="100%">
+</p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7F1&width=435&lines=Welcome+To+MD+Developer+Yt+Github;It+is+Save+Restricted+Content+Bot;Bot+is+Made+By+Mohammed)](https://git.io/typing-svg)
 
 ## 👀 Mohammed Login Bot Visitors
@@ -213,9 +217,7 @@ docker run -d --env-file .env save-restricted-bot
 
 ---
 
----
-
-## Note
+[!Note]
 
 This bot is for educational purposes only. Use responsibly.
 
@@ -245,4 +247,11 @@ This bot is for educational purposes only. Use responsibly.
   </a>
 </p>
 
----
+<p align="center">
+  <b>Made with ❤️ by Mohammed</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:6A00FF,100:00C8FF&height=120&section=footer"/>
+</p>
+
